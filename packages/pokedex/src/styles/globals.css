@@ -1,0 +1,16 @@
+body {
+  background: #eee;
+  padding: 10px 0;
+  height: calc(100vh - 40px)
+}
+
+#__next {
+  height: 100%;
+}
+
+.container {
+  width: 600px;
+  height: 100%;
+  margin: 0 auto;
+  background: white;
+}
